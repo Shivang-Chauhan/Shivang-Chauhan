@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my sophomore<br>📚 I'm currently learning new technologies to enhance my stack<br>🎯 Goals: Building robust and scalable applications</p>
+<p align="left">✨ Fixing bugs since my sophomore<br>📚 I'm currently learning new technologies to enhance my stack<br>🎯 Goals: Building robust and scalable applications</p>
 
 ###
 
